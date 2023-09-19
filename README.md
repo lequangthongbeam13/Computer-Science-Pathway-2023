@@ -1,2 +1,1 @@
-# Computer-Science-Pathway-2023
-Hello
+HELLO, THIS MI MY BASIC CALCULATOR PROJECT
